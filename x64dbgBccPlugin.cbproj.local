@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/10/06 09:43:42.000.144,=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2016/10/06 09:43:42.000.141,=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/10/06 09:45:37.000.494,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\pluginmain.cpp</Transaction>
+    <Transaction>2016/10/06 09:45:48.000.175,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\pluginmain.h</Transaction>
+    <Transaction>2016/10/06 09:45:57.000.278,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\Plugin.cbproj</Transaction>
+    <Transaction>2016/10/06 12:27:04.000.809,=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\plugin.cpp</Transaction>
+    <Transaction>2016/10/06 12:27:17.000.158,=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\plugin.h</Transaction>
+    <Transaction>2016/10/06 18:17:32.000.339,=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\plugin.lib</Transaction>
+    <Transaction>2016/10/06 20:07:08.000.367,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\plugin.lib=</Transaction>
+    <Transaction>2016/10/06 20:07:46.000.038,=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\plugin_il.lib</Transaction>
+    <Transaction>2016/10/06 20:08:59.000.039,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\plugin_il.lib=</Transaction>
+    <Transaction>2016/10/06 20:20:05.000.249,=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\import.lib</Transaction>
+    <Transaction>2016/10/06 20:43:13.000.330,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\import.lib=</Transaction>
+    <Transaction>2016/10/06 21:07:01.000.301,=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\exports.def</Transaction>
+    <Transaction>2016/10/06 21:19:15.000.743,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\bcPlugin.cbproj=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\Plugin.cbproj</Transaction>
+    <Transaction>2016/10/06 21:19:15.000.734,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\bcPluginPCH1.h=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\pluginmain.h</Transaction>
+    <Transaction>2016/10/06 21:20:43.000.212,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\x64dbgBorlandPlugin.cbproj=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\bcPlugin.cbproj</Transaction>
+    <Transaction>2016/10/06 21:20:43.000.203,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\x64dbgBorlandPluginPCH1.h=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\bcPluginPCH1.h</Transaction>
+    <Transaction>2016/10/06 21:21:25.000.929,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\pluginmain.h=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\x64dbgBorlandPluginPCH1.h</Transaction>
+    <Transaction>2016/10/06 21:22:58.000.261,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\x64dbgBccPlugin.cbproj=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\x64dbgBorlandPlugin.cbproj</Transaction>
+    <Transaction>2016/10/06 21:32:38.000.097,=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\File1.cpp</Transaction>
+    <Transaction>2016/10/06 21:33:18.000.334,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\x64dbgBccPlugin.cpp=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\File1.cpp</Transaction>
+    <Transaction>2016/10/06 21:34:16.000.952,=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\File1.h</Transaction>
+    <Transaction>2016/10/06 21:34:31.000.430,C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\x64dbgBccPlugin.h=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\File1.h</Transaction>
+    <Transaction>2016/10/07 15:22:23.000.698,=C:\Users\Yuniet\Documents\Embarcadero\Studio\Projects\bc x64dbg plugin\icons.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="pluginmain.cpp"/>
+    <File Path="pluginmain.h"/>
+    <File Path="plugin.cpp"/>
+    <File Path="plugin.h"/>
+    <File Path="exports.def"/>
+    <File Path="x64dbgBccPlugin.cpp"/>
+    <File Path="x64dbgBccPlugin.h"/>
+    <File Path="icons.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
