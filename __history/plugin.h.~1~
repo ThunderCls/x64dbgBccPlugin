@@ -1,14 +1,9 @@
 #pragma once
 #include "pluginmain.h"
 
-//---------------------------------------------------------------------------
-
-// variables
 enum
 {
 	MENU_TEST,
-	MENU_SETBP,
-	MENU_DELBP,
 	MENU_ABOUT,
 };
 

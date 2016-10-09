@@ -1,5 +1,6 @@
 #include "plugin.h"
 #include "dll_link.h"
+#include <windows.h>
 #include <vcl.h>
 
 //---------------------------------------------------------------------------
@@ -20,11 +21,10 @@ bool cbTestCommand(int argc, char* argv[])
 
 	return true;
 }
-//---------------------------------------------------------------------------
 
 bool cbTestSetBreakpoints(int argc, char* argv[])
 {
-	// Populate function pointers from x32dbg.dll
+	// Fill function pointers from x32dbg.dll
 	GetDllFunctions();
 
 	_plugin_logputs("[" PLUGIN_NAME "] Set Breakpoint test command!");
@@ -45,11 +45,10 @@ bool cbTestSetBreakpoints(int argc, char* argv[])
 		}
 	}
 }
-//---------------------------------------------------------------------------
 
 bool cbTestDelBreakpoints(int argc, char* argv[])
 {
-	// Populate function pointers from x32dbg.dll
+	// Fill function pointers from x32dbg.dll
 	GetDllFunctions();
 
 	_plugin_logputs("[" PLUGIN_NAME "] Delete Breakpoint test command!");
@@ -70,4 +69,3 @@ bool cbTestDelBreakpoints(int argc, char* argv[])
 		}
 	}
 }
-//---------------------------------------------------------------------------

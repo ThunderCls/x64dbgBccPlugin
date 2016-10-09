@@ -60,14 +60,14 @@
 /* Don't use __declspec(dllexport) here in order to manually manage the export functions
    using a .def file and clear the underscore used by borland from the exported functions
    to make it compatible to x64dbg
-   If additional exported functions are added, they have to be declared on the .def file
-   https://msdn.microsoft.com/en-us/library/d91k01sh.aspx
+   If the user adds additional exported functions, they have to be declared on the .def file
+   https://msdn.microsoft.com/en-us/library/d91k01sh.aspx 
    http://www.folding-hyperspace.com/real-time-programming-tips/tip-4-linking-3rd-party.html */
 #define PLUG_EXPORT extern "C" /*__declspec(dllexport)*/
 
 //plugin data
 #define PLUGIN_NAME "BCC Plugin Sample"
-#define PLUGIN_VERSION 2
+#define PLUGIN_VERSION 1
 
 //superglobal variables
 extern int pluginHandle;

@@ -20,6 +20,7 @@
 #pragma hdrstop
 #pragma argsused
 
+#include <vcl.h>
 #include <windows.h>
 #include "pluginmain.h"
 #include "plugin.h"
@@ -156,15 +157,9 @@ PLUG_EXPORT void __cdecl CBMENUENTRY(CBTYPE cbType, PLUG_CB_MENUENTRY* info)
     case MENU_TEST:
 		DbgCmdExec("TestCommand");
 		break;
-	case MENU_SETBP:
-		DbgCmdExec("SetBpTestCommand");
-		break;
-	case MENU_DELBP:
-		DbgCmdExec("DelBpTestCommand");
-		break;
-	case MENU_ABOUT:
+		case MENU_ABOUT:
 		MessageBox(hwndDlg, L"------------------------------------------------------\n"
-							L"\t             [ BCC Plugin v2 ]\n"
+							L"\t             [ BCC Plugin v1 ]\n"
 							L"   Template for Borland C++ plugin development\n"
 							L"                 Coded By: ThunderCls - 2016\n"
 							L"               http://reversec0de.wordpress.com"
