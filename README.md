@@ -1,8 +1,8 @@
 # x64dbgBccPlugin
 Sample x64dbg plugin using BCC
 
-Sample Bcc v1 plugin by ThunderCls - 2016 Blog:
-http://reversec0de.wordpress.com
+Sample BCC plugin by ThunderCls - 2016 
+Blog: http://reversec0de.wordpress.com
 
 This is a sample plugin for the x64dbg x86/x64 debugger by @mrexodia
 using Borland/Embarcadero C++
